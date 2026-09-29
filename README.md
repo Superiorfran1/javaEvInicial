@@ -49,4 +49,5 @@ java com.inventario.main.Main
 # Imagenes
 
 <img width="387" height="383" alt="image" src="https://github.com/user-attachments/assets/9d131524-c3ab-49ff-8315-bd8a1f1bc005" />
+<img width="383" height="376" alt="image" src="https://github.com/user-attachments/assets/e66d96e1-0f83-42e1-b7aa-597b89ed31ce" />
 <img width="1078" height="516" alt="image" src="https://github.com/user-attachments/assets/5717695e-ba0b-4628-b85e-e58a74c28fd1" />
