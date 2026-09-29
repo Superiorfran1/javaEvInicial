@@ -48,6 +48,12 @@ java com.inventario.main.Main
 
 # Imagenes
 
-<img width="387" height="383" alt="image" src="https://github.com/user-attachments/assets/9d131524-c3ab-49ff-8315-bd8a1f1bc005" />
-<img width="383" height="376" alt="image" src="https://github.com/user-attachments/assets/e66d96e1-0f83-42e1-b7aa-597b89ed31ce" />
-<img width="1078" height="516" alt="image" src="https://github.com/user-attachments/assets/5717695e-ba0b-4628-b85e-e58a74c28fd1" />
+<img width="343" height="392" alt="image" src="https://github.com/user-attachments/assets/47d13087-49a9-4c62-b081-2ef4fc46ffb4" /><br>
+
+<img width="335" height="349" alt="image" src="https://github.com/user-attachments/assets/b8e8f6af-82b3-4344-b4bb-80958fed3dbf" /><br>
+
+<img width="335" height="355" alt="image" src="https://github.com/user-attachments/assets/a65dfcca-f132-42ac-a7b8-c30dd3312b85" /><br>
+
+<img width="405" height="270" alt="image" src="https://github.com/user-attachments/assets/ae0993fc-b839-4f59-bbe1-2c002e11ee3a" /><br>
+
+<img width="357" height="266" alt="image" src="https://github.com/user-attachments/assets/42f1052a-b909-4ab3-8023-5ba44bb8ae75" /><br>
