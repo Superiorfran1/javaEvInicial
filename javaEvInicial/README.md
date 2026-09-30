@@ -37,7 +37,7 @@ La aplicación sigue una arquitectura por capas sencilla con el fin de mantener 
 
 Desde la raíz del directorio `src`:
 
-```bash
+
 # Compilar todo el proyecto
 javac com/inventario/main/Main.java
 
@@ -65,10 +65,10 @@ Es el extra que mejor encaja con el proyecto tal y como está: el historial de p
 - La columna *Total pedido* se repite en cada línea del mismo pedido; para sumar ingresos hay que usar *Subtotal*, no *Total pedido*.
 - Si el fichero ya existe se sobrescribe.
 
-### Ejemplo de salida
-```
-Pedido;Fecha;ID Usuario;Cliente;Email;ID Producto;Producto;Tipo;Cantidad;Precio unitario (EUR);Subtotal (EUR);Total pedido (EUR)
-PED-0001;30/09/2026 00:12:17;U001;Carlos Gomez;carlos@example.com;P001;Teclado Mecánico;Físico;2;64,49;128,98;158,97
-PED-0001;30/09/2026 00:12:17;U001;Carlos Gomez;carlos@example.com;P003;Antivirus Licencia 1 Año;Digital;1;29,99;29,99;158,97
-PED-0002;30/09/2026 00:12:17;U002;Ana Martinez;ana@example.com;P004;Curso Java Avanzado;Digital;1;49,00;49,00;49,00
-```
+# Imágenes
+<img width="398" height="396" alt="image" src="https://github.com/user-attachments/assets/01684db2-c90b-4615-8bd5-ff478f25de59" />
+<img width="384" height="379" alt="image" src="https://github.com/user-attachments/assets/81165520-4de6-47c3-9786-5e014091835f" /><br>
+<img width="382" height="377" alt="image" src="https://github.com/user-attachments/assets/f17ed418-08b6-4720-beb9-f8a4b1ecc0b5" />
+<img width="406" height="285" alt="image" src="https://github.com/user-attachments/assets/8b5320ac-a467-47ed-aaf0-56e578d8ab75" /><br>
+<img width="383" height="291" alt="image" src="https://github.com/user-attachments/assets/32022722-ca78-4390-ad75-0baee6101ecc" />
+<img width="383" height="286" alt="image" src="https://github.com/user-attachments/assets/1603afff-4a29-402b-bdf7-0cd34e804034" /><br>
